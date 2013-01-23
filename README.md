@@ -1,3 +1,7 @@
+# WARNING
+
+This repo contains the solution to the go-koans !
+
 ## Go Koans
 
 Teaches basic Go concepts and syntax by example.
